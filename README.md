@@ -2,4 +2,4 @@
 # QueueManagment 
 
 Проект написан на JS, тесты реализованы через Jest
-# queueProjectWithTests
+# Надеемся, что все хорошо!
